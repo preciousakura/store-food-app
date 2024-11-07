@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/logo.png</file>
+        <file>icons/home.svg</file>
+        <file>icons/order.svg</file>
+        <file>icons/product.svg</file>
+        <file>icons/user.svg</file>
+        <file>icons/exit.svg</file>
+        <file>icons/back.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resource.qrc</file>
+    </qresource>
+</RCC>
